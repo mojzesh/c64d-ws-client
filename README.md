@@ -106,6 +106,8 @@ Navigate to: http://localhost:6060/pkg/github.com/mojzesh/c64d-ws-client/c64dws/
 
 - Using Makefile: `make run-example`
 
+![alt text](examples/nested-cubes/assets/Nested-Cubes.png)
+
 For more details read [Nested-Cubes Readme](examples/nested-cubes/README.md) located in `examples/nested-cubes` directory.
 
 # Running tests

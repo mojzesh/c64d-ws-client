@@ -1,5 +1,11 @@
 # "Nested Cubes" example for Retro Debugger WebSocket API client
 
+# Description:
+
+This example demonstrates how to use Retro Debugger WebSocket API client to draw nested cubes effect which is entirely calculated on the client side.
+
+![alt text](assets/Nested-Cubes.png)
+
 # Usage:
 
 To run example, execute:
