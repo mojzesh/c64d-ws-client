@@ -104,6 +104,10 @@ Navigate to: http://localhost:6060/pkg/github.com/mojzesh/c64d-ws-client/c64dws/
 
 # Running example
 
+First of all, make sure that the WebSockets server is enabled, navigate to: `Settings -> Emulation -> WebSockets debugger server`, and tick it on.
+
+![alt text](examples/nested-cubes/assets/EnableWSServer.png)
+
 - Using Makefile: `make run-example`
 
 ![alt text](examples/nested-cubes/assets/Nested-Cubes.png)

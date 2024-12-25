@@ -8,6 +8,10 @@ This example demonstrates how to use Retro Debugger WebSocket API client to draw
 
 # Usage:
 
+First of all, make sure that the WebSockets server is enabled, navigate to: `Settings -> Emulation -> WebSockets debugger server`, and tick it on.
+
+![alt text](assets/EnableWSServer.png)
+
 To run example, execute:
 - Using Makefile: `make run`
 - Using Go: `go run .`
